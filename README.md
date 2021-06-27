@@ -1,0 +1,2 @@
+# What the PHP is this?
+Well, good question. It's a template for making VPS servers. You can deploy this on multiple servers around the world, or just 1 server (like a Raspberry Pi). If you want to deploy this on multiple servers, you might want another server that picks the server closest to you, like a proxy.
